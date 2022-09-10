@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/lucascarvalhobr/notepad/issues"
   },
-  "homepage": "https://github.com/lucascarvalhobr/notepad#readme"
+  "homepage": "https://github.com/lucascarvalhobr/notepad#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.16",
+    "typescript": "^4.8.3"
+  }
 }
