@@ -1,0 +1,24 @@
+{
+  "name": "notepad",
+  "version": "1.0.0",
+  "description": "Simple notepad for proofing concepts of clean architecture with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucascarvalhobr/notepad.git"
+  },
+  "keywords": [
+    "Node.JS",
+    "Clean",
+    "Architecture"
+  ],
+  "author": "Lucas Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucascarvalhobr/notepad/issues"
+  },
+  "homepage": "https://github.com/lucascarvalhobr/notepad#readme"
+}
