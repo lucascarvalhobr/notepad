@@ -13,7 +13,7 @@ export default {
   ],
   testEnvironment: 'node',
   transform: {
-    '.+\\.ts$': 'ts-jest'
+    '^.+\\.ts?$': 'ts-jest'
   }
   // All imported modules in your tests should be mocked automatically
   // automock: false,

@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "notepad",
   "version": "1.0.0",
   "description": "Simple notepad for proofing concepts of clean architecture with Node.js",
